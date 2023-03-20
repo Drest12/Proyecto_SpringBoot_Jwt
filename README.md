@@ -1,6 +1,6 @@
 # Proyecto_SpringBoot_Jwt
 
-proyecto utilizando Spring Boot, Spring JPA, Spring Security y JWT para gestionar la información de un usuario. El objetivo es desarrollar una aplicación que permita a los usuarios acceder a su perfil y modificar su información personal, como su nombre, correo electrónico, contraseña y otros detalles.
+Proyecto utilizando Spring Boot, Spring JPA, Spring Security y JWT para gestionar la información de un usuario. El objetivo es desarrollar una aplicación que permita a los usuarios acceder a su perfil y modificar su información personal, como su nombre, correo electrónico, contraseña y otros detalles.
 
 Para el desarrollo de la aplicación se utilizará Spring Boot para la configuración y el manejo de la aplicación, Spring JPA para interactuar con la base de datos y Spring Security para gestionar la seguridad y el control de acceso. Además, se utilizará JWT para la autenticación y autorización de los usuarios.
 
